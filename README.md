@@ -1,2 +1,2 @@
-# learn-projects-htmlcss
+# learning css
 learning about various subjects
